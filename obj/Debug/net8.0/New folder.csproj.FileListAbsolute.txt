@@ -1,0 +1,30 @@
+C:\New folder\bin\Debug\net8.0\appsettings.Development.json
+C:\New folder\bin\Debug\net8.0\appsettings.json
+C:\New folder\bin\Debug\net8.0\New folder.staticwebassets.runtime.json
+C:\New folder\bin\Debug\net8.0\New folder.exe
+C:\New folder\bin\Debug\net8.0\New folder.deps.json
+C:\New folder\bin\Debug\net8.0\New folder.runtimeconfig.json
+C:\New folder\bin\Debug\net8.0\New folder.dll
+C:\New folder\bin\Debug\net8.0\New folder.pdb
+C:\New folder\obj\Debug\net8.0\New folder.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\obj\Debug\net8.0\New folder.AssemblyInfoInputs.cache
+C:\New folder\obj\Debug\net8.0\New folder.AssemblyInfo.cs
+C:\New folder\obj\Debug\net8.0\New folder.csproj.CoreCompileInputs.cache
+C:\New folder\obj\Debug\net8.0\New folder.MvcApplicationPartsAssemblyInfo.cache
+C:\New folder\obj\Debug\net8.0\New folder.RazorAssemblyInfo.cache
+C:\New folder\obj\Debug\net8.0\New folder.RazorAssemblyInfo.cs
+C:\New folder\obj\Debug\net8.0\staticwebassets.build.json
+C:\New folder\obj\Debug\net8.0\staticwebassets.development.json
+C:\New folder\obj\Debug\net8.0\staticwebassets\msbuild.New folder.Microsoft.AspNetCore.StaticWebAssets.props
+C:\New folder\obj\Debug\net8.0\staticwebassets\msbuild.build.New folder.props
+C:\New folder\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.New folder.props
+C:\New folder\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.New folder.props
+C:\New folder\obj\Debug\net8.0\staticwebassets.pack.json
+C:\New folder\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\New folder\obj\Debug\net8.0\scopedcss\bundle\New folder.styles.css
+C:\New folder\obj\Debug\net8.0\scopedcss\projectbundle\New folder.bundle.scp.css
+C:\New folder\obj\Debug\net8.0\New folder.dll
+C:\New folder\obj\Debug\net8.0\refint\New folder.dll
+C:\New folder\obj\Debug\net8.0\New folder.pdb
+C:\New folder\obj\Debug\net8.0\New folder.genruntimeconfig.cache
+C:\New folder\obj\Debug\net8.0\ref\New folder.dll
